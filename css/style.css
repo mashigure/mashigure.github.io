@@ -15,12 +15,12 @@ body {
 }
 
 #contents {
-	width:760px;
+	width:740px;
 	margin:0 auto;
 }
 
 header {
-	width:760px;
+	width:740px;
 	margin:0 auto;
 }
 
@@ -266,7 +266,7 @@ footer {
  *  タブレット/スマートフォン向けデザイン
  ================================================*/
 /* スクロールバーを考慮して20px大きいサイズで切り替え */
-@media screen and (max-width:779px) {
+@media screen and (max-width:759px) {
 	body {
 		box-sizing:border-box;
 		width:100%;
